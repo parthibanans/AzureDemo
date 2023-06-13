@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'parthiban'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A739A137E09486D9D897E11BC17B040 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5963F93CD9C94992A78ACE600FA85DB9 }}
           package: .
